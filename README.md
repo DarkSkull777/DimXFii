@@ -13,23 +13,23 @@ Neither su music project , nor pytgcalls are stable
 <a href="https://github.com/Boncel-Cell/DimsMusic" alt="HitCount"> <img src="http://hits.dwyl.com/Boncel-Cell/DimsMusic.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Boncel-Cell/DimsMusic?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/Boncel-Cell/DimsMusic" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Boncel-Cell/DimsMusic?style=flat&logo=github" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Boncel-Cell/DimsMusic?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Boncel-Cell/DimsMusic?color=success" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Boncel-Cell/DimsMusic?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Boncel-Cell/DimsMusic?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/Boncel-Cell/DimsMusic" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Boncel-Cell/DimsMusic?style=flat&logo=github" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Boncel-Cell/DimsMusic?label=Forks&logo=github" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Boncel-Cell/DimsMusic?color=success" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Boncel-Cell/DimsMusic?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/Boncel-Cell/DimsMusic?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/Boncel-Cell/DimsMusic?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Boncel-Cell/DimsMusic" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Boncel-Cell/DimsMusic" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/Boncel-Cell/DimsMusic" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/Boncel-Cell/DimsMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/DarkSkull7/DimXFii/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
@@ -71,7 +71,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/Boncel-Cell/DimsMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/DarkSkull7/DimXFii"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
@@ -114,8 +114,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/DimsMusicBot" alt="DimsMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-DimsMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/Golden_quotes_indonesia" alt="DimsMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-DimsMusic%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/DimxFiimusic_BOT" alt="DimXFii"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-DimsMusic-blue" /> </a>
+* Mee: <a  href="https://t.me/dlaaz" alt="DimsMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-DimsMusic%20Updates-9cf" /> </a>
 
 ## Grup
 - [Channel](https://t.me/golden_quotes_indonesia)
