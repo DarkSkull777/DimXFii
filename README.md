@@ -1,5 +1,5 @@
 # DimXFii Telegram Music BOT
-[![DimXFii logo](<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-RKrVacMX7X4/YLERnbo6UJI/AAAAAAAAAlQ/mJBsgHVjCVA9_OprVXYnvWojltxdfwg_ACLcBGAsYHQ/s320/1622217061-picsay.png)](https://t.me/W2HSupport)
+[![DimXFii logo](https://1.bp.blogspot.com/-RKrVacMX7X4/YLERnbo6UJI/AAAAAAAAAlQ/mJBsgHVjCVA9_OprVXYnvWojltxdfwg_ACLcBGAsYHQ/s320/1622217061-picsay.png)](https://t.me/W2HSupport)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
